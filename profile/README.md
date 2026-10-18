@@ -1,6 +1,11 @@
 <div align="center">
 
-<a href="https://ownaz.tech"><img src="logo.png" alt="Ownaz Solutions" width="260" /></a>
+<a href="https://ownaz.tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo-dark.png" />
+    <img src="logo.png" alt="Ownaz Solutions" width="260" />
+  </picture>
+</a>
 
 ### Have an idea? We build it.
 ### Have a problem? We find the solution.
